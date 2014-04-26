@@ -20,6 +20,6 @@ In this case I have assumed only mean() and std() variables as the required ones
 
 * Activity (labels) and subject columns are appended.
 
-* Using the reshape2 packages's melt function a independent tidy data set with the average of each variable for each activity and each subject was created.
+* Using the reshape2 packages's melt function a independent tidy data set called Subdata, with the average of each variable for each activity and each subject was created.
 
-* This file was written into a text file called tidydataset.txt.
+* The Subdata file was written into a text file called tidydataset.txt.
