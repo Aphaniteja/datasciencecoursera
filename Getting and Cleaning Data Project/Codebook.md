@@ -1,3 +1,7 @@
+* The tidy set consists information on the following Variables. The subject identifies the volunteer(1 to 30).The Activity identifies the
+  activity(Laying,Walking etc). The rest of the are means and standard deviations ordered according to Subject and activity
+
+
 
 "1" "subject"
 "2" "Activity"
